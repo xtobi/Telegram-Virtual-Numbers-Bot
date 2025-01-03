@@ -4,7 +4,7 @@
 # Virtual Number bot for Telegram
 # Sends random virtual numbers to user
 # Service: OnlineSim.io
-# SourceCode (https://github.com/Kourva/OnlineSimBot)
+# SourceCode (https://github.com/xtobi/Telegram-Virtual-Numbers-Bot)
 
 # Standard library imports
 import json
